@@ -1,0 +1,3 @@
+A- Lo creo Linus Torvalds para ser utilizado en el desarrollo del kernel de Linux
+B- A Microsoft y lo compro porque un acercamiento a la comunidad más vibrante en el desarrollo de software libre y abierto
+C- Se puede trabajar con Visual Code
