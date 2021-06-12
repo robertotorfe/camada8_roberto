@@ -1,0 +1,9 @@
+a. Es un software de control de versiones diseñado, por Linus Torvalds. 
+Hoy por hoy, es el sistema más utilizado del mundo. Se caracteriza por ser un proyecto de codigo abierto maduro y mantenimiento activo
+Es una herramienta muy utilizada por desarrolladores ya que funciona a la perfeccion en una amplia variedad de sistemas operativos e IDEs
+Git, en un principio, fue pensado para el desarrollo del kernel de Linux. 
+
+b. GitHub es un software, perteneciente a Microsoft desde el año 2018, quienes lo compraron por la suma de 7500 millones de dolares
+El proposito de su compra fue establecer fortalecer su compromiso con la libertad, la apertura y la innovación de los desarrolladores, segun dijo la CEO Satya Nadella
+
+c. Si, se puede trabajar con github desde Github directamente, sin hacer uso de la terminal 
