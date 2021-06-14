@@ -1,0 +1,8 @@
+Comandos mas usados
+1) Iniciar un repositorio local
+1- git init
+2)agregar una modificacion
+2- git add
+3)subirlo al repositorio remoto
+3- git push
+
