@@ -1,0 +1,3 @@
+a. Fue inventado por Linus Torvalds en el 2005 para el desarrollo del Kernel de Linux.
+b. El propietario de GIT es Microsoft GitHub Inc. Microsoft
+c. Existen herramientas visuales que se pueden incluir en los IDEs, cliente GUI de GIT como: Github Desktop, GitKraken, SmartGit, entre otros
