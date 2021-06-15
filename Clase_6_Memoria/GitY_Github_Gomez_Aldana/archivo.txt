@@ -1,0 +1,7 @@
+a. Fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux.
+BitKeeper suponí­a un gran paso adelante, el hecho de ser un software propietario y ciertas desavenencias con su creador, Larry McVoy, llevaron a Linus Torvalds a decantarse por buscar un nuevo sistema de control de versiones. 
+
+b. Pertenece Microsoft. Microsoft asegura que GitHub mantendrá su distintivo enfoque de anteponer a los desarrolladores y seguirá operando de forma independiente para ofrecer una plataforma abierta a todos los desarrolladores e industrias.
+
+c. Si se puede, por ejemplo, el Visual Studio Code permite gestionar comandos a traves de su barra de herramientas,
+en donde solo se tiene que clickear la opcion deseada, ya sea un add, un commit, un push, etc.
