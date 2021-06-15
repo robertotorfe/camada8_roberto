@@ -1,0 +1,50 @@
+GIT Y GITHUB
+
+Crear un repositorio local
+git init
+
+Clonar un repositorio existente
+git clone URL
+git remote add URL
+
+Ver el estado de los archivos
+git status
+
+Agregar los archivos al stage para luego guardarlos
+git add nombre_de_archivo
+git add . (todos los archivos)
+
+Commit o guardarlos
+git commit -m "Descripcion"
+
+Ver en que repositorio nos encontramos
+git remote -v
+
+Subir los cambios al repositorio
+git push origin main (subir a la rama principal)
+git push origin "nombre de la rama deseada"
+
+Traer los cambios del repositorio a nuestro local
+git pull origin main (traer cambios desde la rama principal)
+git pull origin "nombre de la rama deseada"
+
+Ver en que rama nos encontramos
+git branch
+
+Ver todas las ramas ocultas
+git branch -a
+
+Creacion de rama
+git branch "nombre de la rama"
+
+Posicionarnos en otra rama
+git checkout nombre de la rama
+
+Juntar las ramas
+posicionada en donde quiero traer los cambios 
+git merge "nombre de la secundaria"
+
+
+
+
+
