@@ -1,0 +1,6 @@
+¿Quién inventó el sistema de control de versión Git y por qué?
+Git es un sistema de control de versiones. Un sistema de control de versiones nos va a servir para trabajar en equipo de una manera mucho más simple y optima cuando estamos desarrollando software. ... Cuando acabamos de desarrollar nuestro código, utilizamos Git para mezclar los cambios con los otros compañeros.
+b. ¿A quién pertenece actualmente Github y por qué?
+ Microsoft  asegura que GitHub mantendrá su distintivo enfoque de anteponer a los desarrolladores y seguirá operando de forma independiente para ofrecer una plataforma abierta a todos los desarrolladores e industrias. ... GitHub es un repositorio de código online muy popular entre los desarrolladores de código abierto.4 j
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+si, GitKraken,visulal.
