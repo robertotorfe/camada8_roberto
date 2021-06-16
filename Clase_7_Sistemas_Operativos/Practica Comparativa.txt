@@ -1,0 +1,21 @@
+Práctica comparativa 
+
+Objetivo: hacer un análisis comparativo para resolver el problema de Matilda.
+
+En la familia somos tres hermanos y nuestro padre, que se encuentra de viaje en el exterior, nos envió de regalo tres procesadores para nuestras diferentes necesidades, yo (Matilda) le pedí uno para poder jugar al tan esperado Cyberpunk 2077, mi pequeño hermano, Marcelo, en cambio, solamente le pidió uno para ejecutar la suite de Office 2019 y, por último, mi hermano mayor le encargó uno para poder hacer ediciones de video en un programa llamado Wondershare Filmora X.
+
+Estamos confundidos debido a que no los etiqueto con nombres…
+
+Nuestro padre nos envió los siguientes procesadores:
+
+Amd Ryzen 5
+Amd a8
+intel i3 3230
+
+¿Cuál es para cada uno?
+
+Intel i3 3230 para Marcelo. Es un procesador de 3era generacion de intel con una frecuencia de procesador de 3.3ghz, no va a tener problema para realizar tareas de ofimatica.
+
+Amd a8 para hacer edicion de video. El software no tiene requisitos muy altos, y ademas, el procesador cuenta con una placa de video integrada que va a ser ideal para ese tipo de aplicacion.
+
+Amd Ryzen 5 para Matilda, lamentablemente tendria que comprarle una placa de video tambien para jugar Cyberpunk 2077 ya que es un juego nuevo y muy demandante. A menos que haya sido un Ryzen 5 3400G con GPU integrada, en ese caso, le va a correr pero no de manera optima. Podrian intercambiar con su hermano que hace edicion de video, el tema es que el procesador a8 le va a ser de menos utilidad para correr este juego incluso teniendo GPU integrada.
