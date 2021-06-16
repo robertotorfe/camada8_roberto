@@ -1,0 +1,3 @@
+A Matilda le correspondera el Amd ryzen5, que tiene capacidad para el videojuego.
+Al hermano mayor le corresponderá Amd a8, suficiente para que funcione el editor de videos.
+Y por ultimo a la hermana menor le corresponderá el intel i3 3230.
