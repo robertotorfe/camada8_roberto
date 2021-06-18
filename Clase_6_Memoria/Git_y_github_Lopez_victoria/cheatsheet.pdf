@@ -1,0 +1,6 @@
+Clonar un repositorio existente: $ git clone ssh://usuario@domain.com/repo.git
+Crear una rama en el repositorio local: git branch
+cambiar rama: git checkout
+subir cambios: git commit -m "nombre"
+subir a la nube: git push
+crear repositorio nuevo: git init
