@@ -1,0 +1,5 @@
+Clase 1
+En base a las preguntas que pusieron en la actividad anterior los alumnos deberán agregar las palabras faltantes que les haya parecido importantes o desconocidas. 
+En el padlet, habrá de antemano un conjunto de palabras que los docentes consideramos que son de gran importancia para su desarrollo profesional.
+Adicionalmente, en el padlet correspondiente, completarán estas palabras con aspectos como: significado, usabilidad, ejemplos, imágenes para de ilustración. Al finalizar la actividad se les pedirá que guarden una copia en formato PDF o Imagen, para que les sirva como apoyo y lo puedan subir posteriormente en la clase de Github en sus mochilas.
+Al finalizar la actividad el alumno deberá Individualmente subir la copia del padlet en el cual trabajo a la carpeta correspondiente.
