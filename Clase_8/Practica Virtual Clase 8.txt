@@ -1,0 +1,8 @@
+
+Clase 8 
+Serán dos Juegos:
+1. Juego de Memorias en donde deberán convertir las magnitudes dadas a una unidad de medida para poder sumarlas y compararlas con el soporte de almacenamiento dado
+2. Juego de memorias donde deberán ordenar las memorias dadas en un cuadrante de acuerdo a la velocidad y capacidad
+https://docs.google.com/document/d/13gXuQuK40ZOTZ11UX_A6LB6bc2jePNS1/edit#
+Se realizará el Juego de memorias 1: tendrán una serie de juegos y programas y deberan convertir las unidades en mb,kb,gb,etc... 
+(Ejemplo: ¿un juego de 4 tb cuantos kb son?)

@@ -1,0 +1,9 @@
+Clase 7
+Actividad 1: "¿Cómo está el mercado ahora?
+Deberán realizar un trabajo de investigación sobre los diferentes componentes internos de la computadora y hacer una comparativa entre sus características. A su vez tendrán que pensar en base al rendimiento con que otro componente podría ser compatible. 
+Una vez finalizada la ejercitación, guardar la copia del padlet como imagen y por medio de los comando utilizando git bash puedan subir la ejercitación a la mochila del viajero."
+
+Actividad 2: Luego, en base a los conocimientos investigados, deberán realizar un análisis comparativo para cada uno de los usuarios con sus diferentes necesidades.
+Se presenta un caso práctico en el cual tendrán que elegir qué procesador se le debe asignar a cada usuario dependiendo las necesidades que tienen. 
+(Esta actividad la deberán realizar en un documento de en blanco) 
+https://docs.google.com/document/d/1D0YUVBadL_c3cmC7x5RUU1LsYaS_lNy-ZME5nn6AnXk/edit#
