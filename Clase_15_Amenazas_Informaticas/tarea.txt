@@ -1,0 +1,18 @@
+Describan con palabras lo que acaban de hacer:
+
+se verifico la conexión a internet
+se instalo git
+se clono la mochila
+y se creo el archivo de texto
+
+Describir para qué sirve "apt-get"
+
+sirve para instalar, remover y actualizar aplicaciones
+
+Describir para qué sirve "su"
+
+Este comando permite abrir una sesion con el ID de otro usuario o iniciar un nuevo shell de conexion con otra identificación
+
+¿Les resulto familiar esta forma de conectarse a un equipo?
+
+Al comienzo se muestra algo complejo pero con la practica se ha mejorado su uso
