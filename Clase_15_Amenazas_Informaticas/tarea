@@ -1,0 +1,14 @@
+Que acabamos de hacer?
+Primero verificamos si estabamos conectados a una red
+Luego ingresamos al usuario administrador usando su root
+Y bueno ahi instalamos el paquete GIT
+Y una vez con el paquete clonamos el repositorio
+Y luego nos dirigimos a la carpeta con la clase correspondiente
+Y en un formato txt respondemos esto
+
+"apt-get" : Para instalar una aplicacion, descargar un paquete.
+
+"su" : Switch User, cambio de usuario
+
+No nos resulto familiar, pero pudimos.
+
