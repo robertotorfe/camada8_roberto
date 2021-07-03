@@ -1,0 +1,7 @@
+Corroboramos la señal de internet, instalamos git, clonamos el repositorio, nos ubicamos en nuestra rama personal, dentro de la carpeta clase 15 creamos un archivo .txt y lo editamos
+
+apt-get es un sistema de paquetes creado por el proyecto debian de linia de comando, el cual simplifica la instalacion y eliminacion de programas en los sitemos GNU/Linux
+
+Su comunmente se usa para optener permisos de root para opciones administrativas sin tenes que salir y reentrar al sistema.
+
+No, no nos resulta familiar
