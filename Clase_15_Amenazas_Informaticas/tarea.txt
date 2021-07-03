@@ -1,0 +1,5 @@
+El comando apt-get sirve para obtener una actulización o para intalar nuevo
+software para la máquina linux.
+EL comando su nos permite cambiar de usuario y tener los privilegios de éste.
+La forma de conectarse no es común, pero es familiar cuando ya conoces github.
+
