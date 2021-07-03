@@ -1,0 +1,16 @@
+Desarrollo de las respuestas de la actividad:
+
+1. Acamos de clonar el repositorio de la camada y luego desde la branch de uno, crear este documento para luego subirlo dentro de 
+GitHub. 
+
+2. Para que sirve el "apt-get"?
+Respuesta: Este comando de Linux sirve para poder descargar aplicaciones desde el repositorio de Debian para el ordenador con
+Linux que tengamos.
+
+3. Para que sirve "su"?
+Respuesta: Es un comando que sirve para tener permisos de super usuario que a veces con necesarios para poder 
+ejecutar ciertas acciones en Debian.
+
+4. Nos resulto familiar esta forma de conectarnos con un equipo?
+Respuesta: Si, como la terminal ya la habiamos usado en Windows, ya se nos hizo familiar
+esta forma de usarla y de manejarla.
