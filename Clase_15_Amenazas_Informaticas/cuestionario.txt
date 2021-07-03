@@ -1,0 +1,6 @@
+Primero verificamos que tuviera acceso a internet la maquina 
+Despues instalamos git a traves de apt-get
+Clonamos el repositorio de la camada y contestamos las preguntas en un archivo txt hecho en la terminal
+su sirve para cambiar de usuario
+No resulta para nada familiar de esta manera
+
