@@ -1,0 +1,8 @@
+1.Describir con sus palabras lo que acaban de hacer.
+en resumen , al ser una maquina virtual tuvimos que volver a instalar git , esto se hizo gracias al comando apt-get install git
+2.Describir para que sirve "apt-get"
+Es un comando que se usa para actualizar , remover o instalar paquetes de programas.
+3. Describir para que sirve "su".
+este comando nos ayuda a entrar a privilesgios y/o permisos de super usuarrio para hacer muchas cosas sin problemas de permisos.
+4.¿les resulto familiar esta forma de conectarse a un equipo?
+si , realmente es bastante familiar , basicamente es muy similar a cualquier sistema operativo , su escritorio y uso es peculiar pero similar , la diferencia mas grande radica en como nos conectamos a este sistema por medio de la maquina virtual
