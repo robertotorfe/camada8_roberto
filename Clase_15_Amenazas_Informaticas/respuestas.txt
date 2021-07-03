@@ -1,0 +1,5 @@
+1) Lo primero que hicimos fue verificar que tengamos conexión a internet con el comando ping.
+Luego instalamos git y clonamos el repositorio de la mochila. Por último, en el directorio de la clase de hoy creamos un archivo para responder preguntas.
+2) apt-get es el comando para instalar programas.
+3) su permite cambiar el usuario actual a otro usuario.
+4) Resultó bastante familiar.
