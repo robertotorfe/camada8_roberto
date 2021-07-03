@@ -1,0 +1,4 @@
+1. Desde ubuntu clonamos el repositorio de la clase y creamos este docuemnto de texto.
+2. apt-get es el que busca y consigue los paquetes que solicitamos para despues instalarlos por medio del comando install.
+3. su, permite indicar que se van a solicitar acciones que requieren permisos especiales (administrador o superusuario).
+4. Si, ya que es el mismo git con el que trabajamos desde windows.
