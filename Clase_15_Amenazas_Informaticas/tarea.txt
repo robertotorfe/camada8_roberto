@@ -1,0 +1,24 @@
+Describan con sus palabras lo que acaban de hacer.
+
+Hice un ping a la url de Digital House, luego instale GIT, le hice un --version, luego hice un git clone a la ruta de la
+camada 8 del profe Roberto, ahora estpye creando una archivo.txt donde estoy respoondiendo 4 presguntas, lo hice con nano al
+nombre del archivo y luego hice un git add . ,luego commit -m "", luego git push a la rama que esta a mi nombre. 
+ 
+Describir para qué sirve “apt-get”.
+
+Apt-get nos ayuda en la instalacion, desinstalacion de paquetes para debian, este llama los pauetees del repositorio.
+ 
+Describir para qué sirve “su”.
+
+"Su" nos eleva el permiso de usuario a Superusuario, con este tenemos acceso a todos las configuraciones de la maquina 
+pero hay que usarla con cuidado, ya que sino se tienen los conocimientos previos se puede llegar a dañar por completo la maquina, se pueden hacer copias de seguridad antes de tocar archivos o configuraciones que no comprendemos.
+
+ 
+¿Les resultó familiar esta forma de conectarse a un equipo?
+
+Sí, la he usado en ambiente de trabajo y actualmente uso Debian Buster como sistema Base.
+
+
+Gracias
+
+
