@@ -1,0 +1,8 @@
+1) describir con sus propias palabras lo que acabamos de hacer
+clonar un repositorio en la maquina virtual
+2)para que sirve apt-get 
+actualiza el sistema opertivo, instalar programas
+3)para que sirve su 
+su funciona para cambiar de usuario
+4)¿les resulto familiar esta forma de conectarse a un equipo? 
+NO, fue complicada la instalacion y es algo completamente nuevo.
