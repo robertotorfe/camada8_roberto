@@ -1,0 +1,4 @@
+Acabamos de installar Git en la Maquina virtual a traves del comando "apt-get install git"
+apt-get es una herramienta que utiliza Debian y sus derivados para gestionar paquetes instalables disponibles en los repositorios (debe ser ejecutado desde superusuario)
+El comando "su" es utilizado para cambiar el usuario actual a otro usuario desde SSH
+Es familiar el trabajo en las consolas, aunque el SO es algo diferente.
