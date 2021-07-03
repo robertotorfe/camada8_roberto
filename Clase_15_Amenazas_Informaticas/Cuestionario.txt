@@ -1,0 +1,7 @@
+1) lo primero que hicimos es ver si la computadora está conectada a internet, entramos al su. luego descargamos Git, chequeamos la version, clonamos la carpeta Camada8 y cambiamos la rama
+
+2)apt-get es una forma sencilla de instalas paquetes desde la linea de codigos.
+
+3)se usa para obtener permiso del root par aoperaciones administrativas si tener qeu salir y reentrar al sistema.
+
+4) no, no me parece nada familiar.
