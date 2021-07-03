@@ -1,0 +1,11 @@
+- Acabamos de crear una copia local del repositorio de la camada en
+ nuestras maquinas virtuales.
+- Apt-get sirve para gestionar los paquetes de software en Linux, 
+en este caso, permite buscar un paquete de software (en este caso GIT) y,
+sumado al comando "install", instalarlo en nuestra VM.
+- SU es la abreviacion de "Switch User", sirve para cambiar de usuario en Linux.
+En este caso, lo usamos para cambiar al usuario ROOT y tener privilegios de
+administrador para poder instalar programas.
+- Siendo que los comandos son similares a los que estuvimos viendo con GITBash,
+es familiar, pero igualmente sigue siendo diferente para los que estamos
+acostumbrados a trabajar en Windows.
