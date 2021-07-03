@@ -1,0 +1,9 @@
+Describan con sus propias palabras lo que acaban de hacer:
+Descargamos git en la maquina virtual con permisos de administrador, clonamos el repositorio de la camada y ahora procedemos a usar la terminal desde la maquina virtual para subir las consignas.
+
+Describir para que sirve "apt-get": Sirve para instalar paquetes desde la linea de comandos en Linux.
+
+Describir para que sirve "su": Significa Super User y se usa para otorgar permisos al comando que queremos ejecutar.  
+
+¿Les resulto familiar esta forma de conectarse a un equipo?
+Si, es muy similar a la forma de conectarnos a Github usando Git Bash!
