@@ -1,0 +1,8 @@
+Lo que hice fue clonar un repositorio remoto y crear un archivo en la pc 
+local que luego le haré commit y subiré. Ante descargué el Git
+
+apt-get sirve para conseguir algo: instalar una app.
+
+su es para cambiar de usuario
+
+No sé si me resultó familiar, es solo otra pc...
