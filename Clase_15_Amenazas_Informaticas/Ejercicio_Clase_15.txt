@@ -1,0 +1,12 @@
+1-Decriban con sus palabras lo que acaban de hacer.
+Acabamos de instalar Git en la maquina virtual, clonar el repositorio de la camada en la maquina virtual.
+
+2-Describir para que sirve "apt-get".
+El comando sirve para Instalar Actualizaciones, instalar Programas y Software.
+
+3-Describir para que sirve "su".
+Sirve para cambiar de usuario sin tener que cerrar sesion.
+
+4-¿Les resulto familiar esta forma de conectarse a un equipo?
+Me resulto familiar utilizar esta terminal ya que utiliza el Shell Bash que es el mismo que utilizabamos en la terminal Git Bash.
+
