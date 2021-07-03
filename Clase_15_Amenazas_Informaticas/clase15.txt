@@ -1,0 +1,16 @@
+Describan con sus palabras lo que acaban de hacer. 
+Describir para qué sirve “apt-get”. 
+Describir para qué sirve “su”. 
+¿Les resultó familiar esta forma de conectarse a un equipo? 
+
+
+
+
+a) Comprobamos la conexción a internet con el comando ping, luego instalamos git.
+Descargamos nuestro repositorio de github.
+
+b) 'apt-get' es el gestor de paquetes de Debian, se utiliza para eliminar e instalar paquetes.
+
+c) 'su' sirve para elevar nuestra consola a administrador, esto nos permite control completo sobre nuestra PC y sus archivos.
+
+d) Si, de las clases pasadas
