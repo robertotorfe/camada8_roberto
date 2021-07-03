@@ -1,0 +1,3 @@
+"apt.get" sirve para instalar archivos
+"su" permite administrar los usarios
+si me suena familiar
