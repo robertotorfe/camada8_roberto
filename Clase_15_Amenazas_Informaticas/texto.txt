@@ -1,0 +1,8 @@
+a) Comprobamos la conexción a internet con el comando ping, luego instalamos git.
+Descargamos nuestro repositorio de github.
+
+b) 'apt-get' es el gestor de paquetes de Debian, se utiliza para eliminar e instalar paquetes.
+
+c) 'su' sirve para elevar nuestra consola a administrador, esto nos permite control completo sobre nuestra PC y sus archivos.
+
+d) No entiendo a que se refiere por forma de conectarse? Se refiere a usar una maquina virtual?
