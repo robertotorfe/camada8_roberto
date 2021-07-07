@@ -1,0 +1,8 @@
+-Describan con sus palabras lo que acaban de hacer:
+	Comprobamos la conexión a internet con el comando ping, luego instalamos git.
+-Describir para qué sirve "apt-get"
+	apt-get, es el gestor de paquetes de Debian, se utiliza para eliminar e instalar paquetes.
+-Describir para qué sirve "su"
+	su, sirve para elevar nuestra consola a administrador, esto nos permite control completo sobre nuestra PC y sus archivos.
+-¿Les resultó familiar esta forma de conectarse a un equipo?
+	No entiendo a qué se refiere por forma de conectarse? Se refiere a unar una maquina virtual?. Si ese es el caso, es primera vez que uso máquinas virtuales y fue un poco similar a como ya veniamos trabajando anteriormente, asi que en respuesta a la pregunta, sí, me resultó familiar.
