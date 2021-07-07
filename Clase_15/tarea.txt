@@ -1,0 +1,4 @@
+1. En este momento, instalamos git desde la maquina virtual y clonamos el repositorio que usamos diariamente en ella. Nos sirve para entender como git ayuda a trabajar en distintas computadoras sobre mismos archivos
+2. El comando "apt-get" sirve para poder descargar e instalar paquetes 
+3. El comando "su" se usa para cambiar de usuario
+4. No tanto. A muchos se le complicó para conectarse, pero si se logra instalar una VM conectada, luego es como operar una computadora común.
