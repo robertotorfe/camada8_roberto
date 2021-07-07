@@ -1,0 +1,11 @@
+1. Describan con sus palabras lo que acaban de hacer.
+Se instaló git en la máquina virtual. Para ello, primero hubo que chequear la conexión a internet, luego se instaló Git haciendo uso del comando apt-get install git, se clonó el repositorio.
+
+2. Describir para qué sirve "apt-get".
+Es el comando en Debian que permite instalar, actualziar y borrar programas desde la linea de comandos.
+
+3. Describir para que sirve "su".
+Sirve para hacer el switch user, para que podamos acceder al root que es el usuario con mayores privilegios de administrador y así poder instalar el software. 
+
+4. ¿Les resultó familiar esta forma de conectarse a un equipo?
+En un inicio nos resultó un poco ambiguo y diferente, no estábamos acostumbrados a esto, pero luego de la ejercitación con virtualbox de a poco nos está comenzando a ser un poco más familiar. La diferencia que encontramos es en como se entra a esta máquina virtual, pero el resto goza de un escritorio login como cualquier otro SO.
