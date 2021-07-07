@@ -1,0 +1,15 @@
+1. el primer paso que se realizo fue realizar un ping con el cual podemos 
+constatar que nuestra maquina virtual tiene salida a internet, una vez confir
+mado el acceso a internet realizamos el logueo como super usuario y finalmen
+te realizamos la instalación de git y clonamos el repositorio a nuestra maqui
+na vitual. 
+
+2. apt-get : es una herramientra que utiliza debian y deribados para gestionar
+los paquetes instalables disponibles en los repositorios.
+
+3. su : proviene del ingles Substitute User. habitualmente se utiliza para 
+adoptar el rol de administrador del sistema.
+
+4. dado que la finalidad de una maquina virtual es el simular un sistema opera
+tivo su funcionamiento e interacion es lo mismo que conectarse a un equipo
+fisico
