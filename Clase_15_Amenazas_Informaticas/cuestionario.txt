@@ -1,0 +1,16 @@
+1. Descripcion de lo que se acaba de hacer
+Inicialmente comprobamos la conexion a internet
+Instalamos git con apt-get install git
+Clonamos nuestro repositorio de la camada
+Trajimos nuestra rama
+Creamos este archivo en la carpeta clase 15
+Creamos el archivo txt
+Resolvimos el cuestionario
+
+2. Apt-get es una forma de instalar paquetes y aplicaciones mediante la linea de comandos.
+
+3. Su nos permite movernos entre usuarios en la lista de comandos.
+ De esta manera podemos realizar modificacion usando el super usuario root
+
+4. Es bastante similar a la forma utilizada en nuestra consola fuera de la maquina virtual.
+
