@@ -1,0 +1,2 @@
+1. apt-get es el comando para instalar programas en linux dentro de los sistemas derivados de Debian.
+2. El programa su permite usar el interprete de comandos de otro usuario sin necesidad de cerrar la sesion actual. Se usa para obtener permisos de root para operaciones administrativas sin tener que salir y reentrar al sistema.
