@@ -1,0 +1,9 @@
+IP publica: 190.244.25.xxx
+IP privada:
+	- Dirección IPv4. . . . . . . . . . . . . . : 192.168.x.xx
+	- Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+Direccion MAC: xx-C0-4D-22-4A-xx
+
+IP publica: clase B
+IP privada: clase C
+GIGABYTE TECHNOLOGIES
