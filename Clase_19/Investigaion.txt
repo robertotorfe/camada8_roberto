@@ -1,0 +1,5 @@
+Publica: 180.44.55.78
+Submascara Publica: 255.255.240.0
+IP local: 192.168.1.175
+Submascara: 255.255.255.0
+MAC: 00:1B:44:11:3A:B7
