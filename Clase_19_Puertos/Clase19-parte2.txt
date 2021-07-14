@@ -1,0 +1,14 @@
+Direcciones 
+
+Dirección IP Pública y su Máscara de subred
+190.19.252.232 / 255.255.0.0
+
+Dirección IP Privada y su Máscara de subred
+192.168.0.10 / 255.255.255.0
+
+Dirección MAC
+FC-AA-14-E7-D4-A1
+GIGA-BYTE TECHNOLOGY CO.,LTD.
+
+La publica es clase B
+La privada es clase C
