@@ -1,0 +1,15 @@
+IP Pública
+Dirección IPV4 170.51.200.198
+Máscara de subred: no la encontré
+IPV4 Clase B
+
+IP Privada
+Dirección IPV4 192.168.100.5
+Máscara de subred 255.255.255.0
+IPV4 Clase C
+La información que obtengo de la máscara de subred es que todo lo que se envía a una IP 192.168.100.X, se envía directamente a la red local.  
+
+MAC
+Dirección física 50-B7-C3-04-F6-C0
+Marca: Samsung Electronics Co., Ltd
+
