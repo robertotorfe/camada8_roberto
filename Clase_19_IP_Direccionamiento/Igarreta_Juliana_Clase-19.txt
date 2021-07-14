@@ -1,0 +1,22 @@
+Juliana Igarreta
+
+1.Direccion IP Privada
+
+Dirección IPv4. . . . . . .: 192.168.100.9
+
+2. Máscara de Subred Privada
+
+Máscara de subred . . . . .: 255.255.255.0
+
+3. Dirección MAC
+
+Dirección física. . . . . .: 74-29-A4-F8-F1-35
+
+4. Direccion IP pública
+190.3.30.150
+
+Máscara de subred pública
+
+La IP pública es de clase B y la IP privada es de clase C
+
+La marca de mi direccion MAC es: Hon Hai Precision Ind. Co.,Ltd.
