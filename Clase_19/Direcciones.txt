@@ -1,0 +1,10 @@
+Direcciones privadas
+Privada clase C
+Dirección IPv4. . . . . . . . . . . . . . : 192.168.101.4
+Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+Dirección física (MAC). . . . . . . . . . . . . : 50-3E-AA-8E-63-DD
+
+Dirección publica
+Publica clase B
+Ip: 170.78.40.167
+Netmask: 255.255.0.0
