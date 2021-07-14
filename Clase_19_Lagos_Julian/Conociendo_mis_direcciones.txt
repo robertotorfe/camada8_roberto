@@ -1,0 +1,15 @@
+1. DIRECCIONES IP PUBLICA Y SU MASCARA DE SUBRED
+Respuesta: La dirección publica IP es: 192.168.0.8 (Preferido)
+	   La mascara de subred es: 255.255.255.0
+	   Esta dirección es de clase C.
+
+
+2. DIRECCIÓN IP PRIVADA Y SU MASCARA DE SUBRED
+Respuesta: La direccion privada IP es: 192.168.56.1 (Preferido)
+           La masacara de subred es: 255.255.255.0 
+	   Esta dirección es de clase C.
+	
+
+3. LA DIRECCIÓN MAC 
+ES: Respuesta: F8-0D-AC-20-92-73
+	       La marca de red es "HP Inc".
