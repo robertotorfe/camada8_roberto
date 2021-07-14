@@ -1,0 +1,3 @@
+IP Privada: clase C
+IP Publica: clase B
+Fabricante placa de red: LITE-ON Technology Corporation
