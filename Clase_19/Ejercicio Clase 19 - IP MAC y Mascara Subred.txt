@@ -1,0 +1,20 @@
+IP PUBLICA
+
+Dirección IPv4. . . . . . . . . . . . . . :    186.57.107.135
+
+Máscara de subred . . . . . . . . . . . . :   255.255.0.0 
+
+Red Clase B
+
+
+
+
+IP PRIVADA
+
+Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.118
+
+Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+
+Dirección física. . . . . . . . . . . . . : DC-85-DE-1C-C8-C8  (AzureWave Technology Inc.)
+
+Red Clase C
