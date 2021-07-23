@@ -1,0 +1,35 @@
+1. Crear un repositorio remoto
+Anabel Aramayo (AnabelAramayo) creo un nuevo repositorio en https://github.com/AnabelAramayo/Clase-5-Introduccion
+
+2. Invitar a los colaboradores
+Anabel Aramayo invito a Federico Tenaglia (FedeTenaglia) a colaborar con el Repositorio  Remoto
+
+3. Crear un repositorio local y trabajar sobre él
+Anabel Aramayo (AnabelAramayo) creo un repositorio local, lo vinculo con el repositorio
+remoto que creó anteriormente y subio un archivo README.md con el título del
+repositorio.
+
+4. Clonar un repositorio remoto
+Federico Tenaglia (FedeTenaglia) clono el repositorio.
+
+
+5. Trabajar en archivos diferentes (parte 1)
+AnabelAramayo creo 3 archivos: bombon.txt, burbuja.txt y bellota.txt
+FedeTenaglia creo 3 archivos: casa.txt heladera.txt y ropa.txt
+Ambos creamos nuestros repsotorios locales. AnabelAramayo pusheo primero los archivos. FedeTenaglia hizo git pull, y luego git push. Luego AnabelAramayo realizo git pull
+
+6. Trabajar en archivos diferentes (parte 2)
+AnabelAramayo modifico contenido de sus archivos.
+FedeTenaglia modifico contenido de sus archivos.
+Ambos hicieron pull y vieron las modificaciones.
+
+7. Trabajar en el mismo archivo
+Ambos participantes deberán seleccionar el mismo archivo y hacer modi?caciones en
+su respectiva computadora. Les sugerimos escribir un par de líneas de texto que
+tengan sentido porque va hacer más sencillo el próximo paso.
+Una vez modi?cado el archivo en cada repositorio local, ambos deben intentar
+sincronizarlo con el repositorio remoto.
+
+8. Resolver un con?icto
+AnabelAramayo modifico el archivo casa.txt y subio los cambios al repositorio remoto.
+FedeTenaglia al hacer git pull, recibio notificacion de conflicto. Decidio Uni?car el contenido de ambos.
