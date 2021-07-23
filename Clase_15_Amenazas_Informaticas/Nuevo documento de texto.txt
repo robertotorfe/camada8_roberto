@@ -1,0 +1,11 @@
+1. Describa con sus palabra lo que acaban de hacer
+	Se intala git y se realiza la clonación desde github del repositorio de la camada 8
+
+2. Describa para qué sirve "apt-get"
+	Paquete que permite la instalación de otros paquetes, así como también la actualización del sistema operativo de linux.
+
+3. Describa para qué sirve "su"
+	Comando que permite cambiar del usuario actual a otro. Si no se le coloca a que usuario cambiar, este cambia al usuario root.
+
+4. ¿Les resultó familiar esta forma de conectara un equipo?
+	Un poco familiar ya que los comando son similares a los de git bash, sin embargo hay algunos detalles que difieren
