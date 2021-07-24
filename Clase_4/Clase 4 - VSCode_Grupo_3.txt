@@ -1,0 +1,215 @@
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop
+$ mkdir DH
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop
+$ cd DH
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH
+$ mkdir Ecommerce
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH
+$ cd Ecommerce
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH/Ecommerce
+$ touch app.js config.js
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH/Ecommerce
+$ mkdir db
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH/Ecommerce
+$ git init
+Initialized empty Git repository in C:/Users/GNMO/Desktop/DH/Ecommerce/.git/
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH/Ecommerce (main)  
+$ git add .
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH/Ecommerce (main)  
+$ git commit -m "Primer Commit"
+[main (root-commit) bdaf81e] Primer Commit
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 app.js
+ create mode 100644 config.js
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH/Ecommerce (main)  
+$ cd db
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH/Ecommerce/db (main)
+$ touch producto_db.js carrito_db.js
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH/Ecommerce/db (main)
+$ cd ..
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH/Ecommerce (main)  
+$ nano app.js
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH/Ecommerce (main)  
+$ git commit -m "Guardando lo importante"
+On branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   app.js
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        db/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH/Ecommerce (main)  
+$ git add .
+warning: LF will be replaced by CRLF in app.js.
+The file will have its original line endings in your working directory
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH/Ecommerce (main)  
+$ git status
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   app.js
+        new file:   db/carrito_db.js
+        new file:   db/producto_db.js
+
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH/Ecommerce (main)  
+$ git commit -m "Guardando"
+[main f02fc9c] Guardando
+ 3 files changed, 1 insertion(+)
+ create mode 100644 db/carrito_db.js
+ create mode 100644 db/producto_db.js
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH/Ecommerce (main)  
+$ cd db
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH/Ecommerce/db (main)
+$ rm producto_db.js 
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH/Ecommerce/db (main)
+$ ls -R
+.:
+carrito_db.js
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH/Ecommerce/db (main)
+$ cd ..
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH/Ecommerce (main)  
+$ cd ..
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH
+$ ls -R
+.:
+Ecommerce/
+
+./Ecommerce:
+app.js  config.js  db/
+
+./Ecommerce/db:
+carrito_db.js
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH
+$ git branch
+fatal: not a git repository (or any of the parent directories): .git
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH
+$ git branch "Guardando"
+fatal: not a git repository (or any of the parent directories): .git
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH
+$ git branch -a
+fatal: not a git repository (or any of the parent directories): .git
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH
+$ cd Ecommerce
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH/Ecommerce (main)  
+$ git branch -a
+* main
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH/Ecommerce (main)  
+$ git log 
+commit f02fc9c2ceed5639e07ef7436b1ee50aedeaabd4 (HEAD -> main)
+Author: Gonmenendez <Gnmenendez@gmail.com>
+Date:   Tue Jun 8 21:55:46 2021 -0300
+
+    Guardando
+
+commit bdaf81e9f72fb4ee9ada41dd6ffb9bde998d551f
+Author: Gonmenendez <Gnmenendez@gmail.com>
+Date:   Tue Jun 8 21:47:21 2021 -0300
+
+    Primer Commit
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH/Ecommerce (main)  
+$ git log --oneline
+f02fc9c (HEAD -> main) Guardando
+bdaf81e Primer Commit
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH/Ecommerce (main)  
+$ git log --summary
+commit f02fc9c2ceed5639e07ef7436b1ee50aedeaabd4 (HEAD -> main)
+Author: Gonmenendez <Gnmenendez@gmail.com>
+Date:   Tue Jun 8 21:55:46 2021 -0300
+
+    Guardando
+
+ create mode 100644 db/carrito_db.js
+ create mode 100644 db/producto_db.js
+
+commit bdaf81e9f72fb4ee9ada41dd6ffb9bde998d551f
+Author: Gonmenendez <Gnmenendez@gmail.com>
+Date:   Tue Jun 8 21:47:21 2021 -0300
+
+    Primer Commit
+
+ create mode 100644 app.js
+ create mode 100644 config.js
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH/Ecommerce (main)  
+$ cd db
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH/Ecommerce/db (main)
+$ git restore
+fatal: you must specify path(s) to restore
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH/Ecommerce/db (main)
+$ git restore .
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH/Ecommerce/db (main)
+$ rm ../config.js
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH/Ecommerce/db (main)
+$ git add .
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH/Ecommerce/db (main)
+$ git status
+On branch main
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    ../config.js
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH/Ecommerce/db (main)
+$ git commit -m "Sacando"
+On branch main
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    ../config.js
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH/Ecommerce/db (main)
+$ git status
+On branch main
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    ../config.js
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+GNMO@DESKTOP-MKBAMB4 MINGW64 ~/Desktop/DH/Ecommerce/db (main)
+$

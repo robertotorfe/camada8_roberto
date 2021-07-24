@@ -1,0 +1,5 @@
+Clase 2
+Desde la consola de Git Bash se realizará el árbol de carpetas con sus correspondientes archivos, Los nombres de las mismas estarán predeterminados por los docentes y se les entregará en la ppt de la actividad.  Una vez realizada la actividad deberán ejecutar el comando ls -R y hacer un recorte de pantalla el cual deberá subir en el drive que con antelación se les pasará al inicio de la clase.
+Luego, desde VScode,  deberán renombrar los archivos y ubicar los que no estén en su debido lugar, utilizando los comandos, de la forma que está propuesta en la ppt. Para finalizar, desde el explorador de archivo y expandiendo las carpeta harán una captura de pantalla y subirán el archivo al drive bajo el nombre descrito en la ppt.
+
+https://docs.google.com/presentation/d/1UHiPB9c5RaRZIt-qO6noUcIM46KGBPrX/edit#slide=id.g7b40fda7b3_4_20
