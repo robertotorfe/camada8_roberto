@@ -1,0 +1,13 @@
+Que acabamos de hacer?
+Primero verificamos si estabamos conectados a una red
+Luego ingresamos al usuario administrador usando su root
+Instalamos el paquete GIT
+Una vez instalado el paquete clonamos el repositorio
+Nos dirigimos a la carpeta con la clase correspondiente
+Y en un formato txt respondemos esto
+
+"apt-get" : Para instalar una aplicacion, descargar un paquete.
+
+"su": switch user. Nos permite ejecutar comandos con privilegios de usuario mayores.  
+
+No nos resulto familiar, pero pudimos.
