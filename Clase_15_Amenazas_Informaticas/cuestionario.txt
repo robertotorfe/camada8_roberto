@@ -1,0 +1,4 @@
+1. Descargamos Git, clonamos el repositorio remoto "camada8_roberto", cambiamos a la rama correspondiente, creamos este archivo de texto y comenzamos a editarlo.
+2. El comando "apt-get", es el que "busca y consigue" los paquetes que solicitamos, para después instalarlos con la parte del comando "install".
+3. su = "super user", permite indicar que se van a solicitar acciones que requieren permisos especiales (administrador o superusuario). Accede al superusuario.
+4. Si, ya que es la misma interfaz con la que trabajamos en Windows, es Git.
