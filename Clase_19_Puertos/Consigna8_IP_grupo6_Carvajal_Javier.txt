@@ -1,0 +1,7 @@
+Dirección IP Pública y su Máscara de subred
+186.84.23.20		255.255.0.0
+Dirección IP Privada y su Máscara de subred
+192.168.0.34		255.255.255.0	WIFI
+
+Dirección MAC
+AC-B5-7D-8F-7E-85 Liteon Technology Corporation
