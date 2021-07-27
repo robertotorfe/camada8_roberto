@@ -1,0 +1,22 @@
+Zoom: 80 /443
+Discord: 443
+Google Meet: UDP SALIDA ->19302 - 19309
+WhatsApp Web: TCP ->5222, 5223, 5228 y 524 / UDP -> 3478.
+MySQL: 3306
+git: 9418
+SSL: 443
+HTTP: 80 /8080
+VirtualBox: 22, 443, 3389, 18083 y 49152-65534
+VPN: 1194 UDP
+FTP: 20 / 21
+Skype:  443/TCP - 3478-3481/UDP -50000-60000/UDP.
+Fifa 21: TCP: 1935, 3478-3480, 3659, 10000-10099, 42127. UDP: 3074, 3478-3479, 3659, 6000
+Spotify: 80
+TeamViewer: 5938 
+Netflix: 22, 53, 80, 179, 443, UDP 53 y 123.
+Gmail: SSL->465 / TLS -> 587.
+Facebook:  80 Y 443
+Instagram: 7713-7716 TCP/UDP
+Microsoft Outlook:
+Microsoft Word: 995/993/587
+Epic Games: 80, 433, 443, 3478, 3479, 5060, 5062, 5222, 6250 Y 12000-6500
