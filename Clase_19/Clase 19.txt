@@ -1,0 +1,13 @@
+ip privada 
+192.168.0.1
+mascara de subred
+255.255.255.0
+mac
+50-3E-AA-20-33-41
+
+ip publica
+181.170.166.31 Clase B
+Mascara de subred publica
+0.0.255.255
+
+TP-LINK TECHNOLOGIES CO.,LTD.
