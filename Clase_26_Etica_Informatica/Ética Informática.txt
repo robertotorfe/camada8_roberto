@@ -1,0 +1,81 @@
+﻿Práctica de diseño de plan de seguridad
+Práctica integradora
+Objetivo
+Se dividirá a los estudiantes en mesas de trabajo.
+
+
+Micro Desafío
+
+
+Para empezar a poner en práctica los conocimientos adquiridos, necesitarás realizar la siguiente actividad. La empresa que les toque los contrata como asesores de seguridad ya que creen que es una parte fundamental para resguardar sus activos, en base a lo visto en clase y clases anteriores deben hacer:
+
+
+1. En la actividad se realizará un análisis aplicado de los pilares éticos ya vistos:
+
+
+Sociedad
+	 Cliente/Empresario
+	Producto
+	Juicio
+	Administración 
+	Profesión
+	Colegas
+	Personal
+	
+
+
+
+2. Dados los siguientes supuestos enunciados deberá rellenar la tabla del punto 3.-
+
+
+I. Un trabajador de una gran empresa financiera aprendió a usar un costoso y especializado programa de hoja de cálculo desde su cuenta de usuario de la empresa. Para ello, solicitó el DVD con el software, completó su entrenamiento y devolvió el programa. El DVD indicaba que las copias estaban prohibidas pero, a pesar de ello, el trabajador realizó una copia pensando en que así podría usarlo en su casa, aprendería más rápido y la empresa estaría más contenta con él.
+
+
+II. Un jefe de proyecto sospecha que algún miembro de su equipo envía mensajes ofensivos a otros empleados desde su cuenta de correo del trabajo. Para salir de dudas, le pide al administrador de redes que le facilite una copia de los emails de los miembros del equipo.
+
+
+III. Un informático de una empresa de telefonía vio un anuncio en el periódico con una interesante oferta de venta de un coche. El anuncio indicaba un teléfono de contacto pero no la dirección donde poder ver el coche en persona. Aprovechando sus conocimientos técnicos, el informático entró en la base de datos de la empresa para saber a qué dirección física correspondía dicho teléfono. Gracias a ello el informático se personó para ver el coche y pudo cerrar la compra.
+
+
+IV. Un empleado informático tenía sospecha de un defecto en la seguridad de un sistema de su empresa. Al hacer pruebas descubre que a través de dicho ‘hueco’ puede acceder a los datos de todos los empleados. Se lo comunica al responsable de seguridad pero durante las dos semanas que estuvo sin corregir consultó por curiosidad algunos datos de diversos compañeros y jefes.
+
+
+V. Un profesional IT está encargado en un gran hospital de la administración de la base de datos de pacientes. Una tía suya, que trabaja para una compañía de seguros médicos, se acerca un día a saludarle y le pide que le facilite las historias médicas y algunos datos personales de varios pacientes del hospital, ya fallecidos, y le asegura que es para revisar las indemnizaciones de los familiares de forma que en ningún caso se verán perjudicados, sino todo lo contrario.
+
+
+VI. Un ingeniero civil experto en puentes colgantes necesita hacer cálculos muy complicados y contacta con un informático para que le desarrolle el software. El ingeniero le dice al informático que sólo le contratará con la condición de que, como desarrollador del programa, asuma de manera compartida las responsabilidades que pudieran derivarse de un error en los cálculos. El informático le responde que aceptará asumir por escrito todas las responsabilidades que se deriven de un funcionamiento defectuoso del programa pero no las que deriven de un fallo en los cálculos por parte del ingeniero.
+
+
+VII. Un desarrollador software de una empresa automovilística participa en el desarrollo del software del vehículo que controla las emisiones de CO2 y se le pide que retoque lo necesario para que el vehículo muestre que emite menos CO2 de lo real de modo que la empresa pueda cobrar importantes subvenciones.
+
+
+3.- Para cada escenario planteado, deben debatir con su grupo e identificar los principios del código ético relacionados con la situación descrita en cada uno de los siguientes supuestos:
+
+
+
+
+Supuesto
+	Principio 
+	Justificación
+	I
+	Producto
+	Hacen copias del DVD y es un acto prohibido.
+	II
+	Colegas
+	Violación de privacidad al leer los mails de los demas compañeros.
+	III
+	Administración
+	Un tercero se infiltró en la base de datos de una compañía de forma ilegal.
+	IV
+	Sociedad
+	Consultó de forma ilegal datos sensibles sobre compañeros de trabajo.
+	V
+	Profesión
+	Entregaron a terceros información sensible.
+	VI
+	Colegas
+	
+
+	VII
+	Producto
+	porque están hablando de producto en seguir especificaciones y del cómo quieren que sea su entrega
